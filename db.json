@@ -1,5 +1,5 @@
 {
-  "products: [
+  "products" : [
     {"id":1,"name":"Australian magpie","category":"Maroon"},
     {"id":2,"name":"Common waterbuck","category":"Orange"},
     {"id":3,"name":"Eagle, african fish","category":"Orange"},
